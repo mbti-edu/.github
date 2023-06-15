@@ -1,2 +1,3 @@
-# .github
-for Bangkit Capstone Project 2023, from C23-PS211.
+_for Bangkit Capstone Project 2023, from C23-PS211._
+# MBTI-EDU
+An innovative education app that will take a personalized approach to learning. By analyzing a student's MBTI, or Myers-Briggs Type Indicator, our app will be able to provide tailored recommendations that are specific to each individual's learning style. This means that students will be able to access educational materials and resources that are better suited to their unique strengths and weaknesses. The app will also benefit teachers by providing them with insights into the learning preferences of their students. With this information, they'll be able to adjust their teaching strategies and better support each student's academic progress. We're excited to bring this innovative app to the education sector and help students and teachers achieve greater success.
